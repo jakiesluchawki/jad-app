@@ -1,4 +1,4 @@
-const CACHE = "jad-shell-v1";
+const CACHE = "jad-shell-v2";
 const SHELL = ["./", "./manifest.webmanifest", "./assets/jad-trip-collage.png"];
 
 self.addEventListener("install", (event) => {

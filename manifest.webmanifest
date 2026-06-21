@@ -1,0 +1,10 @@
+{
+  "name": "JAD — wspólne wyjazdy",
+  "short_name": "JAD",
+  "description": "Wydatki, rozliczenia i plany wspólnych wyjazdów.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffe1eb",
+  "theme_color": "#ffe1eb",
+  "lang": "pl"
+}

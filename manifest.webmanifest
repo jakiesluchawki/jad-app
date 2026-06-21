@@ -4,7 +4,7 @@
   "description": "Wydatki, rozliczenia i plany wspólnych wyjazdów.",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#ffe1eb",
-  "theme_color": "#ffe1eb",
+  "background_color": "#e4f1f4",
+  "theme_color": "#e4f1f4",
   "lang": "pl"
 }
